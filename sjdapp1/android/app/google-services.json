@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "747484650864",
+    "project_id": "sdjhinata",
+    "storage_bucket": "sdjhinata.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747484650864:android:1d4858cd311d95ec2203b5",
+        "android_client_info": {
+          "package_name": "com.example.sjdapp1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwIKLBTjs0oHHSXd1fFwpmePBJzpM-qCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
